@@ -1,21 +1,4 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [数据科学核心](DSCore/README.md)
-    * [数据科学入门](DSCore/data7001/README.md)
-    * [数据科学伦理](DSCore/data7002/README.md)
-    * [大数据分析](DSCore/data7201/README.md)
-    * [数据科学的统计方法](DSCore/data7202/README.md)
-    * [机器学习](DSCore/data7703/README.md)
-* [数据科学基础](DSFoundation/README.md)
-    * [编程](DSFoundation/programming/README.md)
-    * [数据库](DSFoundation/databases/README.md)
-    * [数学](DSFoundation/maths/README.md)
-* [数据科学技术](DSElective/README.md)
-    * [高维数据](DSElective/highdim/README.md)
-    * [数值优化](DSElective/num&opt/README.md)
-* [数据科学交叉](DSCross/README.md)
-    * [生物信息学](DSCross/binf/README.md)
-    * [矿产行业](DSCross/mining/README.md)
-    * [航运海事](DSCross/marine/README.md)
+* [Initial page](README.md)
 
